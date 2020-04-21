@@ -1,0 +1,55 @@
+.APP{
+    border: 5px solid #75C8EB;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    text-align: center;
+}
+.rt{
+    font-size:30px ;
+    margin-top: 25px;
+    text-align: center;
+}
+.texts{
+    width: 340px;
+    line-height: 30px;
+    border-color: #75C8EB;
+    border-style: double;
+    margin: auto;
+    border-left-width: 0px;
+    border-right-width: 0px;
+}
+.bt{
+    width: 80px;
+    line-height: 30px;
+    border-color: #75C8EB;
+    border-style: double;
+    margin-left: 5px;
+    border-radius: 5px;
+    background-color: white;
+    color:#75C8EB ;
+}
+.list{
+    line-height: 50px;
+    list-style: none;
+}
+.lii{
+    width: 400px;
+    margin-left: 30px;
+    border: 1px solid #F3F3F3;
+    text-align: left;
+    font-size: 20px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.btt{
+    width: 80px;
+    line-height: 30px;
+    border-color: #CDA8AF;
+    border-style: double;
+    border-radius: 5px;
+    background-color: white;
+    color: #CDA8AF;
+    margin-right: 20px;
+}
